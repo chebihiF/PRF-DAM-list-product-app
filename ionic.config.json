@@ -1,0 +1,7 @@
+{
+  "name": "list-product-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
